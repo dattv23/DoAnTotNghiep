@@ -1,7 +1,9 @@
 import pandas as pd
 
 # Load the data from a CSV file
-file_path = "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\rating.csv"  # Change this to your actual file path
+file_path = (
+    "D:\\DoAnTotNghiep\\02.Dataset\\reviews.csv"  # Change this to your actual file path
+)
 data = pd.read_csv(file_path)
 
 # Group the data by CustomerID and apply the train-test split
@@ -20,8 +22,12 @@ train_data = pd.concat(train_data).reset_index(drop=True)
 test_data = pd.concat(test_data).reset_index(drop=True)
 
 # Save the train and test data to CSV files
-train_file_path = "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\train_data.csv"  # Change this to your desired path
-test_file_path = "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\test_data.csv"  # Change this to your desired path
+train_file_path = (
+    "D:\\DoAnTotNghiep\\02.Dataset\\train_data.csv"  # Change this to your desired path
+)
+test_file_path = (
+    "D:\\DoAnTotNghiep\\02.Dataset\\test_data.csv"  # Change this to your desired path
+)
 
 train_data.to_csv(train_file_path, index=False)
 test_data.to_csv(test_file_path, index=False)

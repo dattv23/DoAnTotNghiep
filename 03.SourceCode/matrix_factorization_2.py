@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # Read data from CSV file
 data = pd.read_csv(
-    "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\rating.csv",
+    "D:\\DoAnTotNghiep\\02.Dataset\\reviews.csv",
     encoding="utf-8",
 )
 
