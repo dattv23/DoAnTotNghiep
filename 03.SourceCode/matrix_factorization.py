@@ -4,9 +4,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Read data from CSV file
-data = pd.read_csv(
-    "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\rating.csv", encoding="utf-8"
-)
+data = pd.read_csv("../02.Dataset/reviews.csv", encoding="utf-8")
 
 # Get necessary columns
 ratings = data[

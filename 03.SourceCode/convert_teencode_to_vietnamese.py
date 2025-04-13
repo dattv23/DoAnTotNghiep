@@ -36,7 +36,7 @@ def convert_teencode_to_vietnamese(sentence, dictionary):
 
 dictionary = {}
 with open(
-    "C:\\Users\\LT64\\Desktop\\DoAnTotNghiep\\02.Dataset\\teencode.csv",
+    "../02.Dataset/teencode.csv",
     mode="r",
     encoding="utf-8",
 ) as file:
