@@ -90,34 +90,3 @@ def evaluate_mf_model(
 
     return P, Q, user_to_index, product_to_index, train_rmse_history, test_rmse_history
 
-
-def recommend_top_products(
-    user_id,
-    P,
-    Q,
-    user_to_index,
-    product_to_index,
-    index_to_product,
-    rated_product_ids=None,
-    top_n=10,
-):
-    def clip(v, lo=-5.0, hi=5.0):
-        return max(lo, min(hi, v))
-
-    if user_id not in user_to_index:
-        return []
-
-    u_idx = user_to_index[user_id]
-    user_vector = P[u_idx]
-
-    scores = {}
-    for p_idx, product_vector in enumerate(Q):
-        product_id = index_to_product[p_idx]
-        if rated_product_ids and product_id in rated_product_ids:
-            continue  # Skip items the user already rated
-        score = clip(np.dot(user_vector, product_vector))
-        scores[product_id] = score
-
-    # Sort products by predicted rating (descending)
-    top_products = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:top_n]
-    return top_products

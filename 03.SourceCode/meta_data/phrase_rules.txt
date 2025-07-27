@@ -1,0 +1,169 @@
+đóng gói	đóng_gói
+bao bọc	bao_bọc
+cẩn thận	cẩn_thận
+chuyển phát	chuyển_phát
+nhân viên	nhân_viên
+dịch vụ	dịch_vụ
+đặt hàng	đặt_hàng
+đơn hàng	đơn_hàng
+chống sốc	chống_sốc
+bán hàng	bán_hàng
+mẹ bỉm sữa	mẹ_bỉm_sữa
+giấy in	giấy_in
+mực in	mực_in
+bọc kĩ	bọc_kĩ
+nhanh chóng	nhanh_chóng
+giao chậm	giao_chậm
+sách mới	sách_mới
+sách hay	sách_hay
+sách dở	sách_dở
+quyển sách	quyển_sách
+bìa sách	bìa_sách
+bìa cứng	bìa_cứng
+sách dày	sách_dày
+truyện ngắn	truyện_ngắn
+mẫu chuyện ngắn	mẫu_chuyện_ngắn
+tiểu thuyết	tiểu_thuyết
+sách thiếu nhi	sách_thiếu_nhi
+sách kỹ năng	sách_kỹ_năng
+sách giáo khoa	sách_giáo_khoa
+truyện tranh	truyện_tranh
+nội dung	nội_dung
+bản dịch	bản_dịch
+kiến thức	kiến_thức
+bài học	bài_học
+tư duy	tư_duy
+văn phong	văn_phong
+lối sống	lối_sống
+trang sách	trang_sách
+trang giấy	trang_giấy
+mấy trang	mấy_trang
+sách rất dày	sách_dày
+sách đẹp	sách_đẹp
+truyện hay	truyện_hay
+mùa dịch	mùa_dịch
+nhỏ nhỏ	nhỏ_nhỏ
+lối viết	lối_viết
+móp méo	móp_méo
+giá rẻ	giá_rẻ
+hài lòng	hài_lòng
+lịch sự	lịch_sự
+chỉnh chu	chỉnh_chu
+bọc sách	bọc_sách
+vận chuyển	vận_chuyển
+sơ xài	sơ_xài
+trải nghiệm	trải_nghiệm
+góc nhìn	góc_nhìn
+thời gian	thời_gian
+từ lâu	từ_lâu
+người mới	người_mới
+trong đời	trong_đời
+rụng ra	rụng_ra
+thấm nước	thấm_nước
+sản phẩm	sản_phẩm
+giá cả	giá_cả
+chất lượng	chất_lượng
+đúng mô tả	đúng_mô_tả
+dễ hiểu	dễ_hiểu
+dể hiểu	dễ_hiểu
+dễ đọc	dễ_đọc
+dể đọc	dễ_đọc
+gần gũi	gần_gũi
+gần gủi	gần_gũi
+sắc nét	sắc_nét
+tạm ổn	tạm_ổn
+nên mua	nên_mua
+đáng mua	đáng_mua
+đáng tiền	đáng_tiền
+đáng đọc	đáng_đọc
+must have	must_have
+liền mạch	liền_mạch
+giao nhầm	giao_nhầm
+cần thận	cần_thận
+tuyệt vời	tuyệt_vời
+đáng mua	đáng_mua
+tuyệt vời ông mặt trời	tuyệt_vời
+hài lòng	hài_lòng
+xuất sắc	xuất_sắc
+thất vọng	thất_vọng
+phí tiền	phí_tiền
+phí thời gian	phí_thời_gian
+khó đọc	khó_đọc
+sai chính tả	sai_chính_tả
+good job	tuyệt_vời
+toẹt vời	tuyệt_vời
+tuyet voi	tuyệt_vời
+toẹt zời	tuyệt_vời
+đáng tiền	đáng_tiền
+gói hàng	gói_hàng
+hộp đựng	hộp_đựng
+chống sóc	chống_sóc
+sách rách	sách_rách
+sách bẩn	sách_bẩn
+bìa bẩn	bìa_bẩn
+nhã nam	nhã_nam
+nát bét	nát_bét
+cực hay	hay
+thẳng hàng	thẳng_hàng
+sách in	sách_in
+xoay đi	xoay_đi
+xoay lại	xoay_lại
+nên đọc	nên_đọc
+100 điểm	100_điểm
+trên mạng	trên_mạng
+thôi dồi lun	dở
+bé bé	bé_bé
+cuốn sách	cuốn_sách
+chẳng có	chẳng_có
+giao nhanh	giao_nhanh
+trái chiều	trái_chiều
+ship bơ	nguời_giao_hàng
+mốp méo	mốp_méo
+mua tặng	mua_tặng
+mùi thơm	mùi_thơm
+gói quà	gói_quà
+chắc chắn	chắc_chắn
+sách cũ	sách_cũ
+đúng như mô tả	đúng_như_mô_tả
+thực chiến	thực_chiến
+tiếng anh	tiếng_anh
+tiếng việt	tiếng_việt
+sách rất hay	sách_hay
+sách mỏng	sách_mỏng
+góc sách	góc_sách
+chương cuối	chương_cuối
+niềm vui	niềm_vui
+giao sớm	giao_sớm
+giống hình	giống_hình
+lặp lại	lặp_lại
+vết bẩn	vết_bẩn
+cẩn thận hơn	chưa_cẩn_thận
+giảm sốc	giảm_sốc
+giảm sóc	giảm_sốc
+người đọc	người_đọc
+nhận sớm	nhận_sớm
+nguyên seal	nguyên_seal
+người tiêu dùng	người_tiêu_dùng
+thoã mãn	thỏa_mãn
+trận chiến	trận_chiến
+đọc giả	độc_giả
+giao hàng	giao_hàng
+lớp bọc	lớp_bọc
+thoát ý	thoát_ý
+đường dài	đường_dài
+món quà	món_quà
+hết sứ	hết_sức
+hội sách	hội_sách
+kĩ hơn	kỹ_hơn
+đúng hẹn	đúng_hẹn
+nhận hàng	nhận_hàng
+xinh xĩu	xinh_xỉu
+chả hiểu	chả_hiểu
+chả hiểu sao	chả_hiểu
+yêu thích	yêu_thích
+đọc sách	đọc_sách
+lúc đầu	lúc_đầu
+khổ sách	khổ_sách
+siêu nhanh	siêu_nhanh
+chưa biết chưa_biết
+nhỏ gọn nhỏ_gọn

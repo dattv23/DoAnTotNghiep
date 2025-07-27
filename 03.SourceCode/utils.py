@@ -54,7 +54,15 @@ def remove_links(text):
 
 
 def remove_punctuation(text):
-    return text.translate(str.maketrans("", "", string.punctuation))
+    if not isinstance(text, str):
+        return ""
+    return text.translate(str.maketrans({p: " " for p in string.punctuation}))
+
+
+def remove_numbers(text):
+    if not isinstance(text, str):
+        return ""
+    return re.sub(r"\d+", "", text)
 
 
 # === Teencode conversion ===
@@ -68,6 +76,7 @@ def convert_teencode_to_vietnamese(sentence):
         core_word = word.strip(string.punctuation)
         if core_word in dictionary:
             new_word = word.replace(core_word, dictionary[core_word])
+            new_word = new_word.replace(" ", "_")
             converted_words.append(new_word)
         else:
             converted_words.append(word)
@@ -94,6 +103,15 @@ def remove_vietnamese_stopwords(text):
     return " ".join(result)
 
 
+def normalize_repeated_chars(text):
+    if pd.isna(text):
+        return ""
+
+    text = re.sub(r"(.)\1{1,}", r"\1", text)
+
+    return text
+
+
 # === Tokenization ===
 def word_tokenize(text):
     if pd.isna(text):
@@ -106,11 +124,19 @@ def apply_phrase_rules(text):
         return ""
     rules = load_phrase_rules()
 
+    # Apply general phrase rules first
     for phrase, normalized in sorted(
         rules.items(), key=lambda x: len(x[0]), reverse=True
     ):
         text = re.sub(rf"\b{re.escape(phrase)}\b", normalized, text)
+
     return text
+
+
+def remove_one_char_words(text):
+    if pd.isna(text):
+        return ""
+    return " ".join([word for word in text.split() if len(word) > 1])
 
 
 # === Full Preprocessing Pipeline ===
@@ -121,8 +147,11 @@ def preprocess_text(text):
     text = lower(text)
     text = remove_punctuation(text)
     text = remove_links(text)
+    text = remove_numbers(text)
     text = convert_teencode_to_vietnamese(text)
+    text = normalize_repeated_chars(text)
     text = apply_phrase_rules(text)
     text = word_tokenize(text)
     text = remove_vietnamese_stopwords(text)
+    text = remove_one_char_words(text)
     return text

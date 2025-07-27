@@ -20,7 +20,6 @@ bao_lâu
 bao_nhiêu
 bao_nả
 bay_biến
-biết
 biết_bao
 biết_bao_nhiêu
 biết_chắc
@@ -200,7 +199,6 @@ chung_quy_lại
 chung_ái
 chuyển_tự
 chuyển_đạt
-chuyện
 chuẩn_bị
 chành_chạnh
 chí_chết
@@ -302,7 +300,6 @@ cuối
 cuối_cùng
 cuối_điểm
 cuộc
-càng
 càng_càng
 càng_hay
 cá_nhân
@@ -400,7 +397,6 @@ cả_tin
 cả_ăn
 cả_đến
 cảm_thấy
-cảm_ơn
 cấp
 cấp_số
 cấp_trực_tiếp
@@ -443,7 +439,6 @@ dù_dì
 dù_gì
 dù_rằng
 dù_sao
-dùng
 dùng_cho
 dùng_hết
 dùng_làm
@@ -481,9 +476,7 @@ dữ
 dữ_cách
 em
 em_em
-giá_trị
 giá_trị_thực_tế
-giảm
 giảm_chính
 giảm_thấp
 giảm_thế
@@ -491,7 +484,6 @@ giống
 giống_người
 giống_nhau
 giống_như
-giờ
 giờ_lâu
 giờ_này
 giờ_đi
@@ -539,7 +531,6 @@ hoặc
 hoặc_là
 hãy
 hãy_còn
-hơn
 hơn_cả
 hơn_hết
 hơn_là
@@ -592,7 +583,6 @@ khó_nghĩ
 khó_nói
 khó_thấy
 khó_tránh
-không_sao
 không_ai
 không_bao_giờ
 không_bao_lâu
@@ -613,7 +603,6 @@ không_nhận
 không_những
 không_phải
 không_phải_không
-không_thể
 không_tính
 không_điều_kiện
 không_đầy
@@ -790,7 +779,6 @@ mở_ra
 mợ
 mức
 nay
-ngay
 ngay_bây_giờ
 ngay_cả
 ngay_khi
@@ -972,7 +960,6 @@ nào_đâu
 nào_đó
 này
 này_nọ
-nên
 nên_chi
 nên_chăng
 nên_làm
@@ -1157,7 +1144,6 @@ rõ_thật
 rút_cục
 răng
 răng_răng
-rất
 rất_lâu
 rằng
 rằng_là
@@ -1179,7 +1165,6 @@ sang
 sang_năm
 sang_sáng
 sang_tay
-sao
 sao_bản
 sao_bằng
 sao_cho
@@ -1222,7 +1207,6 @@ số_là
 số_phần
 số_thiếu
 sốt_sột
-sớm
 sớm_ngày
 sở_dĩ
 sử_dụng
@@ -1319,7 +1303,6 @@ thậm
 thậm_chí
 thậm_cấp
 thậm_từ
-thật
 thật_chắc
 thật_là
 thật_lực
@@ -1353,7 +1336,6 @@ thốt_nhiên
 thốt_nói
 thốt_thôi
 thộc
-thời_gian
 thời_gian_sử_dụng
 thời_gian_tính
 thời_điểm
@@ -1769,7 +1751,6 @@ quá
 đã_đủ
 đó
 đó_đây
-đúng
 đúng_ngày
 đúng_ra
 đúng_tuổi
@@ -1956,7 +1937,6 @@ Nhờ
 Hiện
 Hiện_tại
 hiện
-cạnh
 Xung_quanh
 tóm_lại
 Cho
@@ -1971,3 +1951,4 @@ ui,
 cực_kì
 nha
 hơi
+rất

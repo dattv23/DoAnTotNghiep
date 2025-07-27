@@ -117,7 +117,7 @@ Hình ảnh mag tính chất minh hoạ",pos
 74021317,20667402,5,hay,pos
 52788072,24841933,5,Good!,pos
 159004131,20238136,5,Quyển sách to đùng nhìn đã ghia hehe,pos
-113530805,28774792,5,"sách nhìn mới cứng cáp, mùi thơm nhưng đóng gói hơi sơ xài hộp bên ngoài móp hết nhưng k ảnh hưởng đến sách",pos
+113530805,28774792,5,"sách nhìn mới cứng cáp, mùi thơm nhưng đóng gói hơi sơ xài hộp bên ngoài móp hết nhưng k ảnh hưởng đến sách",neg
 93249197,7664088,5,Good,pos
 157240665,10268144,5,đẹp cute,pos
 3304875,22436349,5,"tốt, ko móp, rách, sac",pos
@@ -395,9 +395,9 @@ Nội sung nghe review thì thấy hay nên mua về đọc",pos
 1 điều khiến tôi khá thích thú là tôi nhận ra rằng dù có là những người thành đạt, nổi tiếng, giàu có thì thật ra họ vẫn luôn có những suy nghĩ giống hệt chúng ta mà thôi. Vậy điều gì khiến họ khá chúng ta, tài năng, dũng cảm, quyết tâm, kiên trì, ...tự mình khám phá xem 😁_x000D_
 Sau khi đọc xong quyển sách không biết bạn có cảm thấy muốn bắt đầu chơi 1môn thể thao nào đó không? Không nhất thiết phải chạy bộ, bất kỳ môn nào cũng được chỉ cần bạn thích và phù hợp. Tôi nhớ tác giả đã viết nhiều người chạy không phải vì sống lâu hơn mà chỉ để tận hưởng cuộc sống. Đó là điều mà tôi muốn bây giờ.",pos
 145288029,23086155,5,.,pos
-114937969,14536385,5,Đóng gói hơi sơ sài may là sách k bị cong 🥲,pos
+114937969,14536385,5,Đóng gói hơi sơ sài may là sách k bị cong 🥲,neg
 76013378,5106336,5,nội dung ổn,pos
-113530805,27770321,5,"Bìa sách hơi dơ xíu, giáo nhanh",pos
+113530805,27770321,5,"Bìa sách hơi dơ xíu, giáo nhanh",neg
 14508205,13380940,5,"hàng bọc cẩn thận,giấy tốt,thiết kế tốt. sẽ sử dụng thử nếu ổn sẽ chia sẻ cho người thân",pos
 7718737,18794057,5,đã mua sản phẩm,pos
 194960730,28880990,5,"Sách oki, mới nguyên bọc, khổ giấy bé hơn mình nghĩ nhưng cầm chắc tay",pos
@@ -707,7 +707,7 @@ Sách đẹp, còn nguyên seal",pos
 48629535,7313049,5,"Nếu như Mắt Biếc là một nỗi buồn rất lãng mạn, thì NXCMCT là một nỗi buồn rất thực tế",pos
 114937969,99123,5,Mới toanh!,pos
 52788072,19104908,5,Một câu chuyện để lại rất nhiều suy tư cho người đọc. Cá nhân thực sự cảm thấy thương cho số phận của cậu bé nghèo Lintang,pos
-262977989,12765323,5,4đ/10... cũng ko đến nỗi nào 😊,pos
+262977989,12765323,5,4đ/10... cũng ko đến nỗi nào 😊,neg
 273819808,10449542,5,"Sản phẩn tốt, giao hàng nhanh.",pos
 177487151,18681110,5,oke sách hay cuốn,pos
 159004131,10166081,5,"sách siêu đẹp, đóng gói khá cẩn thận, nội dung okela",pos
@@ -1081,7 +1081,7 @@ Lần này mua được tặng cả Bookmark rất xinh!",pos
 120219394,11738126,5,"Sách hay, trình bày đẹp",pos
 113530805,20729624,5,"Sách thiết kế đẹp, hay đáng đọc",pos
 249160355,574491,5,"Sách còn nguyên seal, hơi cấn góc một tí (quá quen với chuyện này khi mua sách trên Tiki r) nhưng không ảnh hưởng quá nhiều tới trải nghiệm đọc. Tiki sale nên giá siêu tốt",pos
-52789367,12470323,5,Mình vẫn ch đọc hết vì khó đọc quá,pos
+52789367,12470323,5,Mình vẫn ch đọc hết vì khó đọc quá,neg
 105483727,27567901,5,"Giao hàng nhanh, sách hay",pos
 127844385,22645245,5,chưa đọc mua cả đống giờ chưa sờ vào nữa,pos
 54614797,5800267,5,"Đọc mà nao lòng, nhớ bố mẹ khủng khiếp, chắc hẳn bạn cũng sẽ thấy bóng dáng mình trong những câu chuyện ở đây.",pos
@@ -1290,7 +1290,7 @@ Cách đóng gói ép seal móc khoá cấn vào sách thật sự kém duyên l
 162205263,725258,4,"truyện thì hay, vận chuyển cũng nhanh mà sách có vài vết hằn vs vết gấp, bên trong còn có vệt đen, nhìn thiếu thiện cảm hẳn :",neg
 162205263,5304310,4,"Đóng gói tệ, không có túi chống sốc chỉ đơn giản bỏ sách vào thùng, sách bị bẩn . Vẫn ủng hộ tiki nên cho 4 sao, mong là shop sẽ cải thiện !",neg
 162205263,11668488,4,"Nội dung sách rất cuốn, rất thích hợp cho những ngày hè nóng nực vì khi đọc lạnh cả sống lưng :))
-Tuy nhiên, bìa sách bị cấn móp hơi tiếc.",pos
+Tuy nhiên, bìa sách bị cấn móp hơi tiếc.",neg
 162205263,627021,4,"tiki giao hàng nhanh. mình khá bất ngờ là sách giao nhanh hơn dự kiến. sách vì k có màng bọc nên có chút bị sờn mép, nhưng cũng k ảnh hưởng nhiều. nội dung hấp dẫn",pos
 162205263,34947,4,Biết đến Tống từ hồi còn đang đam mê Đạo mộ cơ. Sau đó là Giải Ngải Ký. H đến cuốn này. Đọc là bị cuốn đi luôn. Đặc biệt hay. Chỉ tiếc là không có bookmark dù tiki ghi là có tặng kèm.,pos
 162205263,27336244,4,Chất lượng sách tốt nhưng sách không bọc seal mà bỏ thẳng vào hộp nên bị ướt một chút do giao vào trời mưa và bị móp một vài chỗ trong quá trình vận chuyển,neu
@@ -1943,7 +1943,7 @@ Là một tác phẩm ""đẹp"" nên đọc!",pos
 74021317,71047,4,"Mình thích quyển sách này, nhẹ nhàng và đầy hình ảnh tươi mới dưới góc nhìn trẻ con.
 Nên mua đọc gối đầu giường mỗi tối, để đầu óc thư giãn hơn.",pos
 74021317,10810671,4,"Giao nhanh, nhưng ko đc bọc nylon, để trong hộp hơi rộng nên va đập dập 1 ít ở các góc",pos
-74021317,16871690,4,"giao hàng sớm nhưng gói hàng quá sơ sài, không có miếng chống sốc nào mà bỏ thẳng thừng vào hộp đựng :) sách bị quăn mép với bìa bị df",pos
+74021317,16871690,4,"giao hàng sớm nhưng gói hàng quá sơ sài, không có miếng chống sốc nào mà bỏ thẳng thừng vào hộp đựng :) sách bị quăn mép với bìa bị df",neg
 74021317,10468667,4,không có seal khi nhận hàng,neg
 74021317,27533410,4,"Sách đẹp và hay, tuy nhiên đóng gói hơi sơ sài nên sách về có bị hư nhẹ 1 góc",pos
 74021317,26786250,4,"Đóng gói sơ sài, không bọc chống sóc nên sách bị cong vài chỗ",neg
@@ -2090,7 +2090,7 @@ hóa đơn bán hàng  gần như đã bị cắt một nửa không đủ thôn
 74021317,21184963,4,"Sách giao nhanh, rất ưng ý.Cảm ơn Tiki.",pos
 74021317,5639960,4,thấy giảm.giá nên mua...chưa có thời gian đọc,neu
 74021317,18571074,4,Chưa đọc hết.Cũng hay,neu
-74021317,24199858,4,"Đóng gói k tốt, sách có vài trang bị gập",pos
+74021317,24199858,4,"Đóng gói k tốt, sách có vài trang bị gập",neg
 74021317,22489249,4,phần rìa sách bị xước do ko có bao bảo vệ,neg
 74021317,2138743,4,Sách hay,pos
 74021317,7628194,4,Đọc hơn nửa truyện m mới hiểu cây cam ngọt tại sao lại làm bạn được với cậu bé.,neu
@@ -2108,7 +2108,7 @@ hóa đơn bán hàng  gần như đã bị cắt một nửa không đủ thôn
 74021317,6293811,4,"Giao trễ hơn 1 tháng, đóng gói không cẩn thận.",neg
 74021317,16217649,4,"Đây chỉ là đánh giá về quy cách đóng gói và bao bì sp, chứ mình chưa nói đến nội dung.",neu
 74021317,18420094,4,Sách rất đẹp nhưng vẫn hơi dính bụi ở bìa sách,pos
-74021317,13076910,4,shop ghi là tặng bookcare mà lại ko có,pos
+74021317,13076910,4,shop ghi là tặng bookcare mà lại ko có,neg
 74021317,21483355,4,👍👍👍,pos
 74021317,17937340,4,"sách giao nguyên vẹn, hay.",pos
 74021317,562093,4,Hài lòng,pos
@@ -2397,7 +2397,7 @@ may mà sách hông sao",neu
 Lần nào sách cũng bị cong góc hoặc cong gáy, lần này gáy sách cũng bị cong nhẹ.
 Mong lần sau tiki đóng gói kĩ một chút.",pos
 157240665,7786943,4,"Truyện hình thức đẹp, sai 1 lỗi chính tả như hình, cách kể nhân cách hoá loài vật như con người. phần đầu truyện hơi lan man về tình yêu tuổi mới lớn, mãi cuối mới có thêm tình tiết về bác Tai dài hấp dẫn hơn. Nhưng nhưng phần đầu lan man quá làm tổng thể hơi chán",pos
-157240665,15892473,4,"Hên sách có seal nên không bị vấn đề gì nên cho 4 sao, mình mua 3 quyển nhưng xem cách gói hàng của tiki giao cho mình quá tệ, giao hàng lâu😖",pos
+157240665,15892473,4,"Hên sách có seal nên không bị vấn đề gì nên cho 4 sao, mình mua 3 quyển nhưng xem cách gói hàng của tiki giao cho mình quá tệ, giao hàng lâu😖",neg
 157240665,24972379,4,"Còn tưởng là không đặt được bản chữ kí. Đúng thật là may mắn, sách đẹp không bị sứt mẻ gì hết nhưng mà mới đầu nhận nhìn cái hộp mà muốn đứng tim không á :))",pos
 157240665,26137079,4,"Bên giao hàng họ không hề gọi cho mình. Nên hàng bị hoàn lại, mình phải đặt quyển này lần 2 ,đến lần này mình phải tự kiểm tra đơn hàng để tự đi lấy. Không lại nghĩ mình boom hàng, mình hơi buồn đấy. Mình đã nhận được sách. Cảm ơn ạ",neg
 157240665,18247435,4,Đóng gói đẹp giao hàng chuẩn nhanh.Sách đọc rất lôi cuốn,pos
